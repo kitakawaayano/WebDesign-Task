@@ -1,0 +1,32 @@
+@charset "utf-8";
+body{
+    background-image: url(img/sora.jpg);
+    background-size: cover;
+    margin:30px 15%;
+    font-family: "BIZ UDゴシック",  serif;
+}
+table{
+    background-color: rgb(205, 213, 231);
+}
+table, th, td{
+    border: solid 3px rgb(159, 189, 224, 60);
+    border-collapse: collapse;
+    text-align: center;
+}
+thead{
+    background-color: rgb(59, 121, 176);
+}
+th{
+    font-size: 30px;
+    padding: 20px;
+    color: rgb(231, 231, 246);
+}
+td{
+    font-size: 25px;
+    padding: 15px;
+}
+caption{
+    font-size: 40px;
+    padding: 20px;
+    color:rgb(255, 255, 255)
+}
