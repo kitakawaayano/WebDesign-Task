@@ -1,0 +1,29 @@
+.main-text{
+    color:rgb(64, 60,60);
+}
+.sub-text{
+    color:rgb(64, 60,60);
+}
+p, li{
+    font-size:25px;
+    color:white;
+}
+div, .main-text{
+    margin: 20px 30px;
+    background-color:#97bbd3;
+}
+.all{
+    border: 4px dotted rgb(212, 213, 224);
+}
+img{
+    width: 20%;
+}
+li{
+    list-style-type: square;
+}
+body{
+    background-color: #ede8e4; 
+}
+span{
+    border-bottom: 4px rgb(203, 203, 233) double;
+}
