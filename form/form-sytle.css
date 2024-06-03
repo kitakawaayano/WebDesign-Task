@@ -1,0 +1,13 @@
+#terms_size{
+    font-size: 0.7rem;
+}
+
+fieldset{
+    margin:25px 3px;
+}
+input[type]{
+    margin:5px 1px;
+}
+input[type="radio"],input[type="checkbox"],input[type="number"]{
+    margin-right: 10px;
+}
