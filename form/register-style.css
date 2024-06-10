@@ -1,0 +1,28 @@
+.must{
+    background-color:red;
+    color:white;
+    border-radius:20%;
+    font-size: 0.7rem;
+}
+.small{
+    font-size: 0.6rem;
+}
+table, th, td{
+    border: solid 1px rgb(255, 255, 255);
+}
+th{
+    text-align: left;
+    vertical-align: top;
+    background-color: rgb(144, 140, 162);
+    color: white;
+}
+td{
+   background-color: rgb(222, 222, 227); 
+}
+th, td{
+    padding: 20px 10px;
+}
+button{
+    width: 150px;
+    margin: 8px 2px;
+}
